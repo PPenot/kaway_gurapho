@@ -1,0 +1,40 @@
+body
+{
+	background-repeat: no-repeat;
+}
+
+table#page
+{
+border-collapse: collapse;
+}
+
+td
+{
+	font-family: arial;
+	padding: 0px;
+	text-align: center;
+	vertical-align: center;
+}
+
+td#tdGraph
+{
+	background-image: url(Kawaii_Wallpaper.png);
+	width: 800px;
+	border: 3px solid black;
+}
+
+
+td#tdMode
+{
+	width: 800px;
+	height: 150px;
+	border: 3px solid black;
+}
+
+
+td.tdMenu
+{
+	width: 100px;
+	height: 80px;
+	border: 3px solid black;
+}
